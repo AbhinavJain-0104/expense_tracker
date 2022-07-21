@@ -1,0 +1,22 @@
+* {
+ 
+    box-sizing: border-box;
+  
+  }
+
+
+#root, body, html {
+
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  
+
+
+}
+
+body {
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 1, 1) ), url(./assests/money.png);
+  
+
+}

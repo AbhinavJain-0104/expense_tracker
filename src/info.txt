@@ -1,0 +1,47 @@
+1.Cards are surfaces that display content and actions on a single topic----we have
+stored our details i.e income and expense one componet in card(details.jsx)
+
+2. The useStyles function is a React hook that can be used to generate CSS 
+stylesheets and inject to custom components.
+
+3.The Material Design responsive layout grid adapts to screen size and orientation,
+ ensuring consistency across layouts.
+
+
+ 4.Main.jsx mein apne paas do card component hai
+ one till create tak and uske baad neeche for list items
+
+ 5.FORM
+  if you want to use the mentioned features,
+   you should wrap your form in a FormControl component.
+FormLabel
+FormHelperText
+Input
+InputLabel
+
+
+gutterBottom wali typography is for speechly
+Type category are input labels(selected using menuitem) and amount and date are text fields
+for category we see whether its income or expensnse(const selectedCategories = formData.type === 'Income' ? incomeCategories : expenseCategories;)
+then we map through all the categories of that type
+
+
+
+
+
+6.list
+Avatar bnaya hai ruppe icon ka
+slider bnaya hai with mountOnEnter unmountOnExit
+
+Listitem avatar se todhi spacing wgaira sahi hojegi
+ListItem ke edge pe delete ka icon hoga which on click will delete transaction id
+
+
+
+
+React Context 
+clean and easy way to share state between components
+
+Hooks
+Tap into inner working of react in functional components
+

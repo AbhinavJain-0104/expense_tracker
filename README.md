@@ -26,17 +26,4 @@ User's activity is saved on browser itself which means whatever data of Income/E
 React.js - Frontend Framework
 
 
-### Run Locally 
 
-> Clone the repo
-    >> For Windows: Git Bash
-    >> For Linux: Terminal
-    >> git clone https://github.com/ROHAN842/expense_tracker.git
-    >> cd MainFolder/DirectoryName
-> Install all dependencies
-    >> npm i
-> Spin the react on port 3000
-    >> cd MainFolder/DirectoryName
-    >> npm start
-> Visit the website on http://localhost:3000/
-    

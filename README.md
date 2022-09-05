@@ -9,6 +9,9 @@ Voice 🎙️ based adding of Income 💰 or Expense 💸
 Clean UI ⚡
 Local Storage support for saving user's activity on browser 🌐 itself
 
+![Screenshot (53)](https://user-images.githubusercontent.com/65750712/188426866-7863c450-301d-4c38-b652-feb8ac830acf.png)
+
+
 ### What is TRACK MY EXPENSES?
 
 TRACK MY EXPENSES is a web app for keeping track on our day to day transactions. The app is divided into 2 parts Income and Expense.
